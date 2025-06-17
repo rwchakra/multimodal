@@ -1,2 +1,2 @@
-# multimodal
-Lecture slides from the NORA summer school on Multimodal Learning, 2025
+# NORA Summer School on Multi-modal learning
+This repository contains selected lecture slides from the NORA [summer school]([url](https://www.nora.ai/nora-research-school/education-programs/summer-school/summer-school-2025/)) on Multimodal Learning, 2025 held in Fredrikstad, Norway. Topics covered include the basics of supervised multi-modal classification, multi-modal fusion strategies, generative multi-modal learning, domain specific multi-modal learning (remote sensing), and Responsible AI. 
